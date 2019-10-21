@@ -11,7 +11,7 @@ setup(
     version='1.0.1',
     keywords = ('django', 'apigateway', 'dataproxy'),
     description = 'apigateway powered by django',
-    install_requires=['django==2.1.7',
+    install_requires=['django==2.1.11',
                       'requests',
                       'djangorestframework',
                       'psycopg2-binary'],
